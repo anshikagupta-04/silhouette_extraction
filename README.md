@@ -4,13 +4,6 @@ This project demonstrates real-time human silhouette detection using a webcam fe
 
 ---
 
-## 📸 Demo
-
-<!-- Optional: Add a demo gif or screenshot here -->
-![demo](demo.gif)
-
----
-
 ## 🚀 Features
 
 - Real-time webcam capture
@@ -35,8 +28,8 @@ This project demonstrates real-time human silhouette detection using a webcam fe
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/silhouette_extraction.git
+cd silhouette_extraction
 ```
 
 ⚠️ Troubleshooting
